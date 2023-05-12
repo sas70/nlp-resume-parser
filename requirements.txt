@@ -1,0 +1,6 @@
+python-poppler
+pdftotext
+openai
+Flask
+werkzeug
+flask
